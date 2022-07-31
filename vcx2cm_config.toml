@@ -1,0 +1,2 @@
+OutputDirectory = "console_app_cmake"
+CopySource = true
